@@ -1,4 +1,4 @@
-# Team Name \DevKnight - \DevZone(Web)
+# DevZone
 
 Deployed Link: https://devszone.herokuapp.com/
 
@@ -41,19 +41,7 @@ Many students face issues while learing and exploring topics in Computer Sciene 
   
  ## Challenges we ran into 💻
  Integrating SAWO LABS API and deplying the project on Heroku platform. 
-  
-## Team 🧑‍🤝‍🧑
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/HarshitAditya27"><img src="https://avatars.githubusercontent.com/u/71604531?s=400&u=6b32a3bb23a60837427c094e4e07ecdbb9a0c074&v=4" width="100px;" alt=""/> 
-     <br /><sub><b>Harshit Aditya</b></sub></a><br /></td>
-</tr>
-</table>
-
-|Member Name|Email|Contribution|
-|-----------|-----|------------|
-|Harshit Aditya|harshit_202000368@smit.smu.edu.in|Everything|
-
+ 
 ## Architecture Diagram ⚙️⛏️🔧  
 
 ![Screenshot (2115)](https://user-images.githubusercontent.com/71604531/153005241-24edb22e-6cbf-4e64-9c3e-6e8a3f44b1e4.png) 
@@ -65,12 +53,12 @@ Many students face issues while learing and exploring topics in Computer Sciene 
   **Step 2**: Clone your forked repository. Replace yourusername with your GitHub Username. 
   
   ```sh
-git clone "https://github.com/yourusername/forum2k-devathon-2022.git"
+git clone "https://github.com/HarshitAditya27/DevZone.git"
 ``` 
   **Step 3**: After cloning the repository. Go to the repository. 
   
   ```sh
-cd forum2k-devathon-2022
+cd DevZone
 ``` 
   **Step 4**: Run npm init -y. It will install all the packages and dependencies used in the project. 
   
@@ -87,15 +75,13 @@ npm install express
   ```sh
 npm install mongoose 
 ``` 
-  **Step 7**: Go to Applicaton Folder and move all the contents of it (public, Procfile, index.js) except the DevZone Video Chat App folder to the forum2k-devathon-2022 local directory.
-  
- **Step 8**: Go to forum2k-devathon-2022 local directory. Run node index.js from your terminal. This will start the project in your local machine 🖥️. 
+ **Step 7**: Run node index.js from your terminal. This will start the project in your local machine 🖥️. 
   
   ```sh
  node index.js
 ```  
 
- **Step 9**: Go to localhost 3000 to. 
+ **Step 8**: Go to localhost 3000 to. 
   
   ```sh
  http://localhost:3000/
@@ -118,12 +104,6 @@ Hurray 🥳, you successfully installed the project in your local machine 🎉.
 ![Screenshot (2120)](https://user-images.githubusercontent.com/71604531/153019237-0659cdf5-2934-41f8-9709-589bfd51de42.png)
 ![Screenshot (2119)](https://user-images.githubusercontent.com/71604531/153018927-f1035f99-9257-4a48-9781-d8c85b257a18.png)
 ![Screenshot (2117)](https://user-images.githubusercontent.com/71604531/153019440-c1c641b5-4952-419f-a385-8cda9465a209.png)
-
-## What's next for DevZone 🎆
-I am planning to make it an open-source project and help people to get started with their open source journey 😃 and also I will add more functionalities. 
- 
-## This Project is submitted for: 
-![1643464818862 (1)](https://user-images.githubusercontent.com/71604531/153020527-79f66c25-d098-4565-aa05-2e68e27a5a7f.png)
 
 ## Loved the project 💖? 
   
